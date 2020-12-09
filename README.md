@@ -71,6 +71,9 @@ Good interpersonal and communication skills. I am interested in learning more ab
 + Microsoft power BI
 + Relational database
 + T-SQL
++ C# / C sharp
++ visual studio
++ SQL server managmnt studio
 + Extract Transform and Load (ETL)
 + software development life cycle (SDLC)
 + Agile Methodologies
@@ -87,7 +90,7 @@ Good interpersonal and communication skills. I am interested in learning more ab
 + Data Tools and other tools:  
   + SSIS, SSRS, Power BI reporting server, visual studio, Git, GitHub, JIRA,
 + Reporting Tools: 
-  + Excel, Power BI, SQL Server Reporting Services 2014, 2012, 2008, Microsoft dynamics great plain crystal reports, power BI reporting services.
+  + Excel, Power BI, SQL Server Reporting Services 2014, 2012, 2008, C#,visual studio,SQL server managmnet studio, Microsoft dynamics great plain crystal reports, power BI reporting services.
 
 
 
