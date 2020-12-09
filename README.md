@@ -12,10 +12,6 @@ Creating Visualization reports and dashboards for large datasets using Power BI 
 
 Good interpersonal and communication skills. I am interested in learning more about the field of technology I look forward to applying these skills.
 
-+ Languages:  T-SQL, C#, ASP.NET, CSS, HTML,
-+ Data Tools and other tools:  SSIS, SSRS, Power BI reporting server, visual studio, Git, GitHub, JIRA,
-+ Database: MS SQL server
-+ Reporting Tools:  Excel, Power BI, SQL Server Reporting Services 2014, 2012, 2008, Microsoft dynamics great plain crystal reports, power BI reporting services.
 # Experience 
 
 ### Distant Lands Coffee | Inventory Specialist
@@ -92,6 +88,7 @@ Good interpersonal and communication skills. I am interested in learning more ab
   + SSIS, SSRS, Power BI reporting server, visual studio, Git, GitHub, JIRA,
 + Reporting Tools: 
   + Excel, Power BI, SQL Server Reporting Services 2014, 2012, 2008, Microsoft dynamics great plain crystal reports, power BI reporting services.
+
 
 
 
