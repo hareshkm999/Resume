@@ -55,7 +55,7 @@ Good interpersonal and communication skills. I am interested in learning more ab
 + Verifying and preparing report for any discrepancies between physical existence of commodities and reports received from LICs/ICs to the Head of Branch Operations and to Audit Unit at HO.
 ### Education
 ### HaHu IT Training Center Bellevue, USA
-#### Certificate, Bootcamp Training on Database Development and IT Project Management · (2019 - 2020)
+### Certificate, Bootcamp Training on Database Development and IT Project Management · (2019 - 2020)
 ### Alemaya University Ethiopia
 #### Bachelors Degree| Natural science
 
