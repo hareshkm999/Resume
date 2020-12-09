@@ -74,6 +74,8 @@ Good interpersonal and communication skills. I am interested in learning more ab
 + C# / C sharp
 + visual studio
 + SQL server managmnt studio
++ Github
++ Git
 + Extract Transform and Load (ETL)
 + software development life cycle (SDLC)
 + Agile Methodologies
