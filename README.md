@@ -1,7 +1,7 @@
 
 
 # Girum Legese
-## Inventory Specialist | power BI Dashboard and Report Developer
+## Inventory Specialist | ETL|power BI Dashboard and Report Developer
 https://www.linkedin.com/in/girum-legese/
 
 ## Summery
