@@ -21,7 +21,7 @@ Good interpersonal and communication skills. I am interested in learning more ab
 + Checking and Posting daily transactions on the accounting database server (Microsoft dynamics Great plain)
 + Perform daily, weekly and monthly critical and cycle counts and analyze inventory reports in Microsoft dynamics great plain system balance.
 + Receiving and posting incoming goods on the database server.
-+ Provide inventory control reports as required and Preparing bill of lading and completing shipping activities.
++ Provide inventory control reports using crystal reports  as required and Preparing bill of lading and completing shipping activities.
 + Trace sources of errors and come up with solution solve for inventory inaccuracy. Making adjustment/variance and inventory accuracy.
 + Maintain count accuracy in the Accounting system (Microsoft dynamics great plain balance land physical counting. Track incoming and outgoing products
 ### Toptal - Freelance  Power BI Report and Dashboard| Developer
