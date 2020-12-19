@@ -76,7 +76,6 @@ Good interpersonal and communication skills. I am interested in learning more ab
 + SQL server managmnt studio
 + Github
 + Git
-+ azure DevOps
 + Extract Transform and Load (ETL)
 + software development life cycle (SDLC)
 + Agile Methodologies
