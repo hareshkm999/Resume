@@ -1,7 +1,7 @@
 
 
 # Girum Legese
-## Inventory Specialist |power BI Dashboard and Report Developer
+## Inventory | Power BI | Business Intelligence | SQL | Data visualization
 https://www.linkedin.com/in/girum-legese/
 
 ## Summery
