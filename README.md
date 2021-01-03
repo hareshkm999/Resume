@@ -59,13 +59,21 @@ Good interpersonal and communication skills. I am interested in learning more ab
 ### Alemaya University Ethiopia
 #### Bachelors Degree| Natural science
 
-# Certifications 
+# Certifications  By linkedIN learning
++ Become Business intelegence specialist
 + Programming Foundations 
 + Relational database Essential Training
 + Learning Microsoft SQL Server 2019
 + Agile Software Development
 + Tech Soft Skills: Effective Technical Communication
 + Power BI essential Training
++ power BI Desktop
++ Google Analytics essential Training
++ tablue 10, Mastering Calculations
++ crystal Reports 2016 essential training
++ Economic Analysis and data Analytics
++ financial forcasting with big data
++ looker first look
 + Software Testing/QA
 ## Skils
 + Microsoft power BI
