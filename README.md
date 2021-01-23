@@ -1,7 +1,7 @@
 
 
 # Girum Obse
-## Inventory | Power BI pro | Business Intelligence | SQL | Data visualization
+## Inventory | Power BI | Business Intelligence | SQL | Data visualization
 https://www.linkedin.com/in/girum-legese/
 
 ## Summery
