@@ -85,20 +85,15 @@ Good interpersonal and communication skills. I am interested in learning more ab
 + Github
 + Git
 + Extract Transform and Load (ETL)
-+ software development life cycle (SDLC)
 + Agile Methodologies
-+ Business Analytics
 + Data visualizations
 + power BI desktop
-+ Micro soft Excell
 + SQL server managment studio
-+ SQL server integration services
 + Database quieries
-+ Technical communication
 ## Tools
 
 + Data Tools and other tools:  
-  + SSIS, SSRS, Power BI reporting server, visual studio, Git, GitHub, JIRA,
+  + SSIS,  visual studio, Git, GitHub, JIRA,
 + Reporting Tools: 
   + Excel, Power BI, SQL Server Reporting Services 2014, 2012, 2008, C#,visual studio,SQL server managmnet studio, Microsoft dynamics great plain crystal reports, power BI reporting services.
 
