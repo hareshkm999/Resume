@@ -54,9 +54,9 @@ Good interpersonal and communication skills. I am interested in learning more ab
 + Ensuring the accuracy and completeness of the documents received and ensure the details follow the operation Manual.
 + Verifying and preparing report for any discrepancies between physical existence of commodities and reports received from LICs/ICs to the Head of Branch Operations and to Audit Unit at HO.
 ### Education
-### HaHu IT Training Center Bellevue, USA
+### [HaHu IT Training Center Bellevue, USA](https://www.hahuit.com/)
 ### Certificate, Bootcamp Training on Database Development and IT Project Management · (2019 - 2020)
-### Alemaya University Ethiopia
+### [Alemaya University Ethiopia](https://www.haramaya.edu.et/)
 #### Bachelors Degree| Natural science
 
 # Certifications  By linkedIN learning
