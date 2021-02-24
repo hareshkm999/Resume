@@ -14,7 +14,7 @@ Good interpersonal and communication skills. I am interested in learning more ab
 
 # Experience 
 
-### Distant Lands Coffee | Inventory Specialist
+### [Distant Lands Coffee](http://www.dlcoffee.com/) | Inventory Specialist
 
 ### March 2019 - Present (1 year 10 months) Renton, Washington USA
 
@@ -29,7 +29,7 @@ Good interpersonal and communication skills. I am interested in learning more ab
 
 + As per the business requirements and given assignments I worked on Connecting| Importing data| from different data sources(SQL server, csv files and excel) and transforming data for Developing visual reports, dashboards using Power BI desktop.
 
-### Horra Trading| Green coffee processing and Inventory Manger
+### [Horra Trading](http://www.horracorporate.com/)| Green coffee processing and Inventory Manger
 ### March 2017 - August 2018 (1 year 6 months) Addis Ababa, Ethiopia
 
 + Responsible for the smooth running of the entire processing of green coffee operation.
@@ -43,7 +43,7 @@ Good interpersonal and communication skills. I am interested in learning more ab
 + Evaluate new inventory to ensure it’s ready for shipment.
 + Perform daily analysis to predict potential inventory problems.
 + Order new supplies to avoid inefficiencies or excessive surplus.
-### Ethiopia Commodity Exchange | Branch Operations controller| lead Inventory
+### [Ethiopia Commodity Exchange](http://www.ecx.com.et/) | Branch Operations controller| lead Inventory
 ### January 2013 - February 2017 (4 years 2 months)
 + Making sure that all inventory transactions are properly recorded, documented and always updating the stock records in accordance with the warehouse operations manual and the accounting software.
 + Compiling reports including daily GRN and GIN approval, opening balance, deposit, delivery by classification and grade on daily basis.
