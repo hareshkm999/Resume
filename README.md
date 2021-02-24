@@ -29,7 +29,7 @@ Good interpersonal and communication skills. I am interested in learning more ab
 
 + As per the business requirements and given assignments I worked on Connecting| Importing data| from different data sources(SQL server, csv files and excel) and transforming data for Developing visual reports, dashboards using Power BI desktop.
 
-### [Horra Trading](http://www.horracorporate.com/)| Green coffee processing and Inventory Manger
+### Horra Trading| Green coffee processing and Inventory Manger
 ### March 2017 - August 2018 (1 year 6 months) Addis Ababa, Ethiopia
 
 + Responsible for the smooth running of the entire processing of green coffee operation.
