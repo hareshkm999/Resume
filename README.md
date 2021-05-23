@@ -1,7 +1,7 @@
 
 
 # Girum Legese
-## Inventory | Power BI | Business Intelligence | SQL | Data visualization
+## | Power BI | Business Intelligence | SQL | Data visualization
 ## My [linkedin](https://www.linkedin.com/in/girum-legese/) profile
 ## My [portfolio](https://ggithub2020.github.io/girum.github.com/)
 
