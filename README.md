@@ -5,7 +5,7 @@
 ## My [linkedin](https://www.linkedin.com/in/girum-legese/) profile
 ## My [portfolio](https://ggithub2020.github.io/girum.github.com/)
 
-## Summery
+## Summary
 
 Ambitious and interested in utilizing new technologies to provide the best service to customers and the organization, having knowledge in relational database management system (RDBMS), SQL, power BI ,ETL, Agile SDLC, software Testing and so on.
 
