@@ -17,7 +17,7 @@ Good interpersonal and communication skills. I am interested in learning more ab
 
 ### [Distant Lands Coffee](http://www.dlcoffee.com/) | Inventory Specialist
 
-### March 2019 - Present (1 year 10 months) Renton, Washington USA
+### March 2019 - Present Renton, WA USA
 
 + Checking and Posting daily transactions on the accounting database server (Microsoft dynamics Great plain)
 + Perform daily, weekly and monthly critical and cycle counts and analyze inventory reports in Microsoft dynamics great plain system balance.
