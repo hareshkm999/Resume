@@ -7,7 +7,7 @@
 
 ## Summary
 
-Ambitious and interested in utilizing new technologies to provide the best service to customers and the organization, having knowledge in relational database management system (RDBMS), SQL, power BI ,ETL, Agile SDLC, software Testing and so on.
+Ambitious and interested in utilizing new technologies to provide the best service to customers and the organization, having knowledge in relational database management system (RDBMS), SQL, power BI ,ETL, Agile SDLC, software Testing.
 
 Creating Visualization reports and dashboards for large datasets using Power BI tool to improve business leads across divisions to improve better business decisions.
 
