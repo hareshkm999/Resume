@@ -97,7 +97,7 @@ Good interpersonal and communication skills. I am interested in learning more ab
 ## Tools
 
 + Data Tools and other tools:  
-  + SSIS,  visual studio,DAX studio, Git, GitHub, JIRA,
+  + SSIS,  visual studio,DAX studio, Git, GitHub, JIRA,Visual studio code
 + Reporting Tools: 
   + Excel, Power BI,DAX,AnalyzeInExcel,Tabular Editor,SQL Server Reporting Services 2014, 2012, 2008, C#,visual studio,SQL server managmnet studio, Microsoft dynamics great plain crystal reports, power BI reporting services.
 
