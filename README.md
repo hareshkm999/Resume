@@ -60,8 +60,10 @@ Good interpersonal and communication skills. I am interested in learning more ab
 ### [Alemaya University Ethiopia](https://www.haramaya.edu.et/)
 #### Bachelors Degree| Natural science
 
-# Certifications  By linkedIN learning
+# Certifications  By linkedIN learning and other online courses
 + Become Business intelegence specialist
++ Power BI service
++ Advanced DAX
 + Programming Foundations 
 + Relational database Essential Training
 + Learning Microsoft SQL Server 2019
@@ -80,6 +82,7 @@ Good interpersonal and communication skills. I am interested in learning more ab
 + Microsoft power BI
 + Relational database
 + T-SQL
++ DAX
 + C# / C sharp
 + visual studio
 + SQL server managmnt studio
