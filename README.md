@@ -26,7 +26,7 @@ Good interpersonal and communication skills. I am interested in learning more ab
 + Trace sources of errors and come up with solution solve for inventory inaccuracy. Making adjustment/variance and inventory accuracy.
 + Maintain count accuracy in the Accounting system (Microsoft dynamics great plain balance land physical counting. Track incoming and outgoing products
 ### Freelance  -Power BI Report and Dashboard| Developer
-### May 2019 - November 2020 (7 months)
+### May 2019 - November 2020
 
 + As per the business requirements and given assignments I worked on Connecting| Importing data| from different data sources(SQL server, csv files and excel) and transforming data for Developing visual reports, dashboards using Power BI desktop.
 
