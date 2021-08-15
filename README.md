@@ -1,6 +1,6 @@
 
 
-# Girum Obse
+# Girum Legese
 ## Power BI | Business Intelligence | SQL | Data visualization
 ## My [linkedin](https://www.linkedin.com/in/girum-legese/) profile
 ## My [portfolio](https://ggithub2020.github.io/Ggithub2020-Ggithub2020-.github.io/)
