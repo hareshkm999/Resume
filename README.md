@@ -80,6 +80,7 @@ Good interpersonal and communication skills. I am interested in learning more ab
 + Software Testing/QA
 ## Skils
 + Microsoft power BI
++ power BI service
 + Relational database
 + T-SQL
 + DAX
