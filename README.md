@@ -45,7 +45,7 @@ Good interpersonal and communication skills. I am interested in learning more ab
 + Perform daily analysis to predict potential inventory problems.
 + Order new supplies to avoid inefficiencies or excessive surplus.
 ### [Ethiopia Commodity Exchange](http://www.ecx.com.et/) | Branch Operations controller| lead Inventory
-### January 2013 - February 2017 (4 years 2 months)
+### January 2016 - February 2017 
 + Making sure that all inventory transactions are properly recorded, documented and always updating the stock records in accordance with the warehouse operations manual and the accounting software.
 + Compiling reports including daily GRN and GIN approval, opening balance, deposit, delivery by classification and grade on daily basis.
 + Ensuring accuracy of documents received and completes the necessary documentation upon receipt of the commodity.
