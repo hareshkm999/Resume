@@ -24,7 +24,7 @@ Experience
 +	 Experienced in SQL Performance Tuning to optimize slow running queries.
 +	 Experienced in creating complex (SSIS) packages for ETL purposes. Performed data migration from various type of sources (Excel, Flat File, CSV, XML, OLTP DB, etc.), Data Conversions, Data Extraction/Transformation/Loading (ETL) using SSIS and SQL scripts
 
-12/020/2014– 01/05/2016
+12/020/2016– 01/05/2018
 # Business Intelligence Analyst 
 +	Expertly performed requirement gathering and analysis, analyzed and documented the system specifications, business requirements.
 +	Designed, developed, modified, and enhanced the database structures and database objects.
@@ -32,7 +32,7 @@ Experience
 +	Created, developed, and managed schema objects such as tables, views, indexes, stored procedures.
 +	Created ETL packages to validate, extract, transform and load data to data warehouse databases using SQL Server Integration Services (SSIS).
  
- 01/01/2013 – 12/05/2014
+ 01/01/2015 – 12/05/2016
  # QA Tester
 +	Participated in feature requirements definition with development team.
 +	Developed test plans, created, and executed test cases.
