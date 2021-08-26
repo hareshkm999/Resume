@@ -15,29 +15,29 @@ Good interpersonal and communication skills. I am interested in learning more ab
 # Experience 
 Experience 
 01/10/2019 – DATE
-  # Power BI Report Developer
-•	Experience in using Microsoft BI Stack (SQL, SSIS, SSRS and Power BI). Worked with SQL Server 2012/2014/2016.
-•	 Experienced in Microsoft Power BI, Power BI Pro, Power Query, Power Pivot, Power BI Service, Power BI Desktop, and data models to gather information from multiple sources and deliver information to the end user.
-•	Proficiency with DAX skills and the ability to create and troubleshoot complex calculations and measures.
-•	 Experienced with using Microsoft Power BI for the creation of dashboards, standard reports, and ad-hoc reports.
-•	 Excellent back-end skills in creating SQL objects such as Tables, Complex Stored Procedures, User- defined Functions, Views, Indexes, Triggers, Joins.
-•	 Experienced in SQL Performance Tuning to optimize slow running queries.
-•	 Experienced in creating complex (SSIS) packages for ETL purposes. Performed data migration from various type of sources (Excel, Flat File, CSV, XML, OLTP DB, etc.), Data Conversions, Data Extraction/Transformation/Loading (ETL) using SSIS and SQL scripts
+# Power BI Report Developer
++	Experience in using Microsoft BI Stack (SQL, SSIS, SSRS and Power BI). Worked with SQL Server 2012/2014/2016.
++ Experienced in Microsoft Power BI, Power BI Pro, Power Query, Power Pivot, Power BI Service, Power BI Desktop, and data models to gather information from multiple sources and deliver information to the end user.
++ Proficiency with DAX skills and the ability to create and troubleshoot complex calculations and measures.
++	 Experienced with using Microsoft Power BI for the creation of dashboards, standard reports, and ad-hoc reports.
++	 Excellent back-end skills in creating SQL objects such as Tables, Complex Stored Procedures, User- defined Functions, Views, Indexes, Triggers, Joins.
++	 Experienced in SQL Performance Tuning to optimize slow running queries.
++	 Experienced in creating complex (SSIS) packages for ETL purposes. Performed data migration from various type of sources (Excel, Flat File, CSV, XML, OLTP DB, etc.), Data Conversions, Data Extraction/Transformation/Loading (ETL) using SSIS and SQL scripts
 
 12/020/2014– 01/05/2016
 # Business Intelligence Analyst 
-•	Expertly performed requirement gathering and analysis, analyzed and documented the system specifications, business requirements.
-•	Designed, developed, modified, and enhanced the database structures and database objects.
-•	Developed logical and physical data models, design data access strategies and write SQL code to access and manipulate data stored in databases
-•	Created, developed, and managed schema objects such as tables, views, indexes, stored procedures.
-•	Created ETL packages to validate, extract, transform and load data to data warehouse databases using SQL Server Integration Services (SSIS).
++	Expertly performed requirement gathering and analysis, analyzed and documented the system specifications, business requirements.
++	Designed, developed, modified, and enhanced the database structures and database objects.
++	Developed logical and physical data models, design data access strategies and write SQL code to access and manipulate data stored in databases
++	Created, developed, and managed schema objects such as tables, views, indexes, stored procedures.
++	Created ETL packages to validate, extract, transform and load data to data warehouse databases using SQL Server Integration Services (SSIS).
   01/01/2013 – 12/05/2014
    #        QA Tester
-•	Participated in feature requirements definition with development team.
-•	Developed test plans, created, and executed test cases.
-•	Reported and tracked bugs using bug tracking tools. 
-•	Ensured bugs are successfully resolved and closed.
-•	Wrote appropriate test documentation for the feature area.
++	Participated in feature requirements definition with development team.
++	Developed test plans, created, and executed test cases.
++	Reported and tracked bugs using bug tracking tools. 
++	Ensured bugs are successfully resolved and closed.
++	Wrote appropriate test documentation for the feature area.
 
 ### Education
 ### [HaHu IT Training Center Bellevue, USA](https://www.hahuit.com/)
