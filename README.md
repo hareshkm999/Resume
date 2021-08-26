@@ -2,7 +2,6 @@
 
 # Girum Legese
 ## Power BI | Business Intelligence | SQL | Data visualization
-## My [linkedin](https://www.linkedin.com/in/girum-legese/) profile
 ## My [portfolio](https://ggithub2020.github.io/Ggithub2020-Ggithub2020-.github.io/)
 
 ## Summary
@@ -14,46 +13,32 @@ Creating Visualization reports and dashboards for large datasets using Power BI 
 Good interpersonal and communication skills. I am interested in learning more about the field of technology I look forward to applying these skills.
 
 # Experience 
+Experience 
+01/10/2019 – DATE
+  # Power BI Report Developer
+•	Experience in using Microsoft BI Stack (SQL, SSIS, SSRS and Power BI). Worked with SQL Server 2012/2014/2016.
+•	 Experienced in Microsoft Power BI, Power BI Pro, Power Query, Power Pivot, Power BI Service, Power BI Desktop, and data models to gather information from multiple sources and deliver information to the end user.
+•	Proficiency with DAX skills and the ability to create and troubleshoot complex calculations and measures.
+•	 Experienced with using Microsoft Power BI for the creation of dashboards, standard reports, and ad-hoc reports.
+•	 Excellent back-end skills in creating SQL objects such as Tables, Complex Stored Procedures, User- defined Functions, Views, Indexes, Triggers, Joins.
+•	 Experienced in SQL Performance Tuning to optimize slow running queries.
+•	 Experienced in creating complex (SSIS) packages for ETL purposes. Performed data migration from various type of sources (Excel, Flat File, CSV, XML, OLTP DB, etc.), Data Conversions, Data Extraction/Transformation/Loading (ETL) using SSIS and SQL scripts
 
-### [Distant Lands Coffee](http://www.dlcoffee.com/) | Inventory Specialist
+12/020/2014– 01/05/2016
+# Business Intelligence Analyst 
+•	Expertly performed requirement gathering and analysis, analyzed and documented the system specifications, business requirements.
+•	Designed, developed, modified, and enhanced the database structures and database objects.
+•	Developed logical and physical data models, design data access strategies and write SQL code to access and manipulate data stored in databases
+•	Created, developed, and managed schema objects such as tables, views, indexes, stored procedures.
+•	Created ETL packages to validate, extract, transform and load data to data warehouse databases using SQL Server Integration Services (SSIS).
+  01/01/2013 – 12/05/2014
+   #        QA Tester
+•	Participated in feature requirements definition with development team.
+•	Developed test plans, created, and executed test cases.
+•	Reported and tracked bugs using bug tracking tools. 
+•	Ensured bugs are successfully resolved and closed.
+•	Wrote appropriate test documentation for the feature area.
 
-### March 2019 - Present Renton, WA USA
-
-+ Checking and Posting daily transactions on the accounting database server (Microsoft dynamics Great plain)
-+ Perform daily, weekly and monthly critical and cycle counts and analyze inventory reports in Microsoft dynamics great plain system balance.
-+ Receiving and posting incoming goods on the database server.
-+ Provide inventory control reports using crystal reports  as required and Preparing bill of lading and completing shipping activities.
-+ Trace sources of errors and come up with solution solve for inventory inaccuracy. Making adjustment/variance and inventory accuracy.
-+ Maintain count accuracy in the Accounting system (Microsoft dynamics great plain balance land physical counting. Track incoming and outgoing products
-### Freelance  -Power BI Report and Dashboard| Developer
-### May 2019 - November 2020
-
-+ As per the business requirements and given assignments I worked on Connecting| Importing data| from different data sources(SQL server, csv files and excel) and transforming data for Developing visual reports, dashboards using Power BI desktop.
-
-### Horra Trading| Green coffee processing and Inventory Manger
-### March 2017 - August 2018 (1 year 6 months) Addis Ababa, Ethiopia
-
-+ Responsible for the smooth running of the entire processing of green coffee operation.
-+ Successfully managed the processing and loading of 16,800 MT of green coffee, under my supervision.
-+ Ensured accurate inventory records were maintained.
-+ Managed a team of 45-five individuals.
-+ Design and implement an inventory tracking system to optimize inventory control procedures.
-+ Examine the levels of supplies and raw material to determine shortages.
-+ Document daily deliveries and shipments to update inventory.
-+ Prepare detailed reports on inventory operations, stock levels, and adjustments.
-+ Evaluate new inventory to ensure it’s ready for shipment.
-+ Perform daily analysis to predict potential inventory problems.
-+ Order new supplies to avoid inefficiencies or excessive surplus.
-### [Ethiopia Commodity Exchange](http://www.ecx.com.et/) | Branch Operations controller| lead Inventory
-### January 2016 - February 2017 
-+ Making sure that all inventory transactions are properly recorded, documented and always updating the stock records in accordance with the warehouse operations manual and the accounting software.
-+ Compiling reports including daily GRN and GIN approval, opening balance, deposit, delivery by classification and grade on daily basis.
-+ Ensuring accuracy of documents received and completes the necessary documentation upon receipt of the commodity.
-+ Checking there are no double submissions of DN and validates that the GRN related to the PUN was initially deposited in his/her warehouse before instructing the commencement of loading the vehicle.
-+ Approving delivery tickets and loading tickets prepared by IC.
-+ Sends the undelivered and expired PUN/DN paper copies back to head office for report to HO each working day.
-+ Ensuring the accuracy and completeness of the documents received and ensure the details follow the operation Manual.
-+ Verifying and preparing report for any discrepancies between physical existence of commodities and reports received from LICs/ICs to the Head of Branch Operations and to Audit Unit at HO.
 ### Education
 ### [HaHu IT Training Center Bellevue, USA](https://www.hahuit.com/)
 ### Certificate, Bootcamp Training on Database Development and IT Project Management · (2019 - 2020)
