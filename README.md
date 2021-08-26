@@ -31,8 +31,9 @@ Experience
 +	Developed logical and physical data models, design data access strategies and write SQL code to access and manipulate data stored in databases
 +	Created, developed, and managed schema objects such as tables, views, indexes, stored procedures.
 +	Created ETL packages to validate, extract, transform and load data to data warehouse databases using SQL Server Integration Services (SSIS).
-  01/01/2013 – 12/05/2014
-   #        QA Tester
+ 
+ 01/01/2013 – 12/05/2014
+ # QA Tester
 +	Participated in feature requirements definition with development team.
 +	Developed test plans, created, and executed test cases.
 +	Reported and tracked bugs using bug tracking tools. 
@@ -45,7 +46,7 @@ Experience
 ### [Alemaya University Ethiopia](https://www.haramaya.edu.et/)
 #### Bachelors Degree| Natural science
 
-# Certifications  By linkedIN learning and other online courses
+# Certifications  By linkedIN learning,  other online courses
 + Become Business intelegence specialist
 + Power BI service
 + Advanced DAX
