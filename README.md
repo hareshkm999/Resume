@@ -47,16 +47,21 @@ Experience
 #### Bachelors Degree| Natural science
 
 # Certifications  By linkedIN learning,  other online courses
-+ Become Business intelegence specialist
-+ Power BI service
-+ Advanced DAX
-+ Programming Foundations 
-+ Relational database Essential Training
+### [Power BI service](https://www.credential.net/ea6bb8df-0d74-47ff-8480-80e9743721c0)
+### [Advanced DAX](https://www.credential.net/77e1218e-6cf1-437a-b1a9-64401b92dc62)
+### [Become Business intelegence specialist](https://user-images.githubusercontent.com/73087775/129428999-58922c00-1ee0-4a1a-bcc6-c4c2b0816e40.png)
++ [Crystal reports](https://user-images.githubusercontent.com/73087775/129429801-f0997fc9-6c8e-4e1b-8eb3-d1729d6ca3dc.png)
++ Programming Foundations
+### [Relational database Essential Training](https://user-images.githubusercontent.com/73087775/129432842-da02337a-f1ad-4a30-b118-d56bb7cfceb9.png)
+### [Data Modelling](https://user-images.githubusercontent.com/73087775/129429960-2f6c2a96-0c26-46ee-90ac-4be972db3b15.png)
 + Learning Microsoft SQL Server 2019
 + Agile Software Development
 + Tech Soft Skills: Effective Technical Communication
-+ Power BI essential Training
-+ power BI Desktop
++ [Power BI essential Training](https://user-images.githubusercontent.com/73087775/129429942-6b764884-b179-4b88-bd8a-23dc61b307e2.png)
++ [power BI Desktop](https://user-images.githubusercontent.com/73087775/129429942-6b764884-b179-4b88-bd8a-23dc61b307e2.png)
++ [DAX TOOLS](https://user-images.githubusercontent.com/73087775/129429911-cd78d28c-e9ca-4785-88da-083d91095585.png)
++ [Tableau](https://user-images.githubusercontent.com/73087775/129430060-658a2c4a-6e4a-48ec-b86b-355e9639546b.png)
++ [Relational database](https://user-images.githubusercontent.com/73087775/129432842-da02337a-f1ad-4a30-b118-d56bb7cfceb9.png)
 + Google Analytics essential Training
 + tablue 10, Mastering Calculations
 + crystal Reports 2016 essential training
@@ -64,8 +69,9 @@ Experience
 + financial forcasting with big data
 + looker first look
 + Software Testing/QA
++ [Tech soft skills ](https://user-images.githubusercontent.com/73087775/129432958-b91bf168-f4a5-4089-87a7-8d78c38e954b.png)
 ## Skils
-+ Microsoft power BI
++ Microsoft  power BI
 + power BI service
 + Relational database
 + T-SQL
