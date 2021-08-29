@@ -44,7 +44,7 @@ Experience
 ### [HaHu IT Training Center Bellevue, USA](https://www.hahuit.com/)
 ### Certificate, Bootcamp Training on Database Development and IT Project Management · (2019 - 2020)
 ### [Alemaya University Ethiopia](https://www.haramaya.edu.et/)
-#### Bachelors Degree| Natural science
+#### Bachelors Degree
 
 # Certifications  
 + [Power BI service](https://www.credential.net/ea6bb8df-0d74-47ff-8480-80e9743721c0)
