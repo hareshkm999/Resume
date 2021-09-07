@@ -14,7 +14,7 @@ Good interpersonal and communication skills. I am interested in learning more ab
 
 # Experience 
 Experience 
-01/10/2019 – DATE
+05/10/2019 – DATE
 # Power BI Report Developer
 +	Experience in using Microsoft BI Stack (SQL, SSIS, SSRS and Power BI). Worked with SQL Server 2012/2014/2016.
 + Experienced in Microsoft Power BI, Power BI Pro, Power Query, Power Pivot, Power BI Service, Power BI Desktop, and data models to gather information from multiple sources and deliver information to the end user.
@@ -24,7 +24,7 @@ Experience
 +	 Experienced in SQL Performance Tuning to optimize slow running queries.
 +	 Experienced in creating complex (SSIS) packages for ETL purposes. Performed data migration from various type of sources (Excel, Flat File, CSV, XML, OLTP DB, etc.), Data Conversions, Data Extraction/Transformation/Loading (ETL) using SSIS and SQL scripts
 
-12/020/2016– 01/05/2018
+12/10/2016– 01/05/2019
 # Business Intelligence Analyst 
 +	Expertly performed requirement gathering and analysis, analyzed and documented the system specifications, business requirements.
 +	Designed, developed, modified, and enhanced the database structures and database objects.
