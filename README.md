@@ -76,6 +76,10 @@ Experience
 + Relational database
 + T-SQL
 + DAX
++ DAX studio
++ Tabular Editor
++ ALM toolkit
++ VertiPaq Analyzer
 + C# / C sharp
 + visual studio
 + SQL server managmnt studio
